@@ -1,0 +1,15 @@
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\bin\Debug\net9.0\Practica_Main1.exe
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\bin\Debug\net9.0\Practica_Main1.deps.json
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\bin\Debug\net9.0\Practica_Main1.runtimeconfig.json
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\bin\Debug\net9.0\Practica_Main1.dll
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\bin\Debug\net9.0\Practica_Main1.pdb
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.AssemblyInfoInputs.cache
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.AssemblyInfo.cs
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.dll
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\refint\Practica_Main1.dll
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.pdb
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica_Main1.genruntimeconfig.cache
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\ref\Practica_Main1.dll
+C:\Users\Ruslan Normaykin\Desktop\Project VS\C#\Practica_Main1\Practica_Main1\obj\Debug\net9.0\Practica.D8E49CF2.Up2Date
